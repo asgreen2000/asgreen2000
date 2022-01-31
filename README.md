@@ -67,7 +67,7 @@
 
 
 
-<h3>Statistical Data :-</h3>
+<h3>Github stats :-</h3>
 <p><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=asgreen2000&show_icons=true&locale=en&layout=compact"alt="adam-pw" /></p>
 
 <br>
@@ -78,6 +78,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-pw&" alt="adam-pw" /></p>
 
+<h3>Leetcode stats 👇🏼 </h3>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=NeyJr&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <br>
 
 
