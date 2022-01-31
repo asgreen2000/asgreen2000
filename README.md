@@ -80,7 +80,7 @@
 
 <h3>Leetcode stats 👇🏼 </h3>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=NeyJr&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=NeyJr&theme=light)](https://github.com/KnlnKS/leetcode-stats)
 <br>
 
 
