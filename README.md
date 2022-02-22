@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Java for developing an Android app.
 
-- 📫 How to reach me **buihuutiendat2017@gmail.com**
+- 📫 How to reach me <a href="mailto:buihuutiendat2017@gmail.com">buihuutiendat2017@gmail.com</a>
 
 - ⚡ Fun fact :- food and football are the reasons to live.
 
